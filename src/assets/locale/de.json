@@ -1,0 +1,38 @@
+{
+  "shared": {
+    "navbar": {
+      "menu": {
+        "language": "Sprache",
+        "logout": "Ausloggen"
+      }
+    },
+    "form": {
+      "brand": "Marke",
+      "category": "Kategorie",
+      "description": "Beschreibung",
+      "discount": "Reduziert um (%)",
+      "id": "Produkt ID",
+      "price": "Preis in EUR",
+      "rating": "Bewertung",
+      "title": "Produktname",
+      "submitButton": "Anlegen"
+    }
+  },
+  "page": {
+    "home": {
+      "pageTitle": "Produktübersicht",
+      "editProduct": "Produkt editieren",
+      "createNewProduct": "Produkt anlegen",
+      "table": {
+        "brand": "Marke",
+        "category": "Kategorie",
+        "description": "Beschreibung",
+        "discountPercentage": "Reduziert um (%)",
+        "id": "Produkt ID",
+        "price": "Preis in EUR",
+        "rating": "Bewertung",
+        "title": "Produktname"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "shared": {
+    "navbar": {
+      "menu": {
+        "language": "Language",
+        "logout": "Logout"
+      }
+    },
+    "form": {
+      "brand": "Brand",
+      "category": "Category",
+      "description": "Description",
+      "discount": "Discount percentage (%)",
+      "id": "Product ID",
+      "price": "Price in EUR",
+      "rating": "User rating",
+      "title": "Product name",
+      "submitButton": "Create"
+    }
+  },
+  "page": {
+    "home": {
+      "pageTitle": "Product overview",
+      "editProduct": "Produkt editieren",
+      "createNewProduct": "Produkt anlegen",
+      "table": {
+        "brand": "Brand",
+        "category": "Category",
+        "description": "Description",
+        "discountPercentage": "Discount percentage (%)",
+        "id": "Product ID",
+        "price": "Price in EUR",
+        "rating": "User rating",
+        "title": "Product name"
+      }
+    },
+    "createNew": {
+      "pageTitle": "Create new product"
+    },
+    "edit": {
+      "pageTitle": "Edit product"
+    }
+  }
+}
